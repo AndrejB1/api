@@ -8,11 +8,6 @@
   <servlet>
     <servlet-name>CheckRoutes</servlet-name>
     <servlet-class>com.andrej.BusRouteServlet</servlet-class>
-    <init-param>
-      <param-name>filepath</param-name>
-      <param-value>api/example.txt</param-value>
-    </init-param>
-
   </servlet>
 
 </web-app>
